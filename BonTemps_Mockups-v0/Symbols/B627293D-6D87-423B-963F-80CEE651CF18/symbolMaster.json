@@ -1,0 +1,117 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D6367EBB-6A88-441B-9368-BB3C2F9993B5",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1431,
+  "do_objectID": "B627293D-6D87-423B-963F-80CEE651CF18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9E4A7AF4-2002-4A03-99F0-95C3ABA9B72F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6CC87B95-F97C-4794-8153-DE44A82667CD",
+    "height": 160,
+    "width": 1438,
+    "x": 6331,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "13D9DFC3-42E9-49CB-8948-B499FA5009B7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "09A72FC6-E8D3-4128-887A-7B8E0582E1F8"
+    },
+    {
+      "class": "group",
+      "id": "922F2113-2F60-4B76-9C05-B53903FC5D19"
+    },
+    {
+      "class": "group",
+      "id": "627F33ED-8809-4638-AB9F-7FFB79ED7DCE"
+    },
+    {
+      "class": "bitmap",
+      "id": "4E16D9D3-B623-490C-B2F5-CE4FB34C4372"
+    },
+    {
+      "class": "group",
+      "id": "61895CCE-F5D5-484F-B4D4-4912B0CA1C05"
+    },
+    {
+      "class": "text",
+      "id": "3CD1E7F3-45E4-4CE9-9133-14A366AD7A9E"
+    },
+    {
+      "class": "text",
+      "id": "B0284B19-E642-4DC1-A8DD-3801D4C7486E"
+    },
+    {
+      "class": "text",
+      "id": "7299D7C1-AF6D-4E3D-AC3B-9B8B2A2168E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A415834C-AF13-486E-8681-60022EBC4668"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E64240FA-D54B-4C01-9C71-F063D3AC1278"
+    }
+  ],
+  "name": "PO nav dark",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1E85EA41-E24F-435E-A635-EB3AB7359B25",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E5DBF4B4-7BEB-49C4-8B81-48935D15A752",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "803AF677-1059-4939-8A18-A9985E6E8108",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "do_objectID": "C31A6975-5613-4C24-A129-61329513F7B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -750,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "833C2E31-EF68-4668-BC0C-14C8F9B64775"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "769BAC33-C0DC-48FE-A73A-CA08C46CC544"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "208E0515-01B5-46DA-98BF-565A275E0FE0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B43E8C86-A2D3-4A0B-B488-30CF4CDA6655"
+    },
+    {
+      "class": "text",
+      "id": "F269C1E8-E4A9-4FD1-861A-B3DBF25EC6F7"
+    },
+    {
+      "class": "text",
+      "id": "94863709-9791-4A6E-A64D-CC6117C04EA6"
+    }
+  ],
+  "name": "style guide",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -355,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7CC2ED0A-7ACA-44D5-8430-3B4604BE317B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "5EC2EA41-5A3F-455C-8ECB-903698ED5354",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8BDE3663-D3BE-47CA-A3D3-3951E23F4CF0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4DEE183E-3900-45FF-8A42-703EE28CB8AF",
+    "height": 1595,
+    "width": 1440,
+    "x": 3499,
+    "y": -1995
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "64DA7FB4-8E76-4161-94D9-59F7C3813CD9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "58491F82-A69C-406D-A5AE-A2EAAE3A6611"
+    },
+    {
+      "class": "text",
+      "id": "DB8E921F-E362-476A-9C59-1EE1A611FEDC"
+    },
+    {
+      "class": "text",
+      "id": "0A29F735-4276-4BD1-9766-8E409DD0429D"
+    },
+    {
+      "class": "text",
+      "id": "AEABEF50-8131-4EEF-B00D-D2B45C4F40BA"
+    },
+    {
+      "class": "text",
+      "id": "7FF8F2CA-D20B-4128-B87F-80C7E6ABCEDE"
+    },
+    {
+      "class": "text",
+      "id": "987ED542-8644-4175-8180-CAE73797D663"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5D973D68-D834-46F1-98CD-A46AD1FCE3B7"
+    },
+    {
+      "class": "group",
+      "id": "9426ED26-69B2-4317-A750-C1C734B09179"
+    },
+    {
+      "class": "group",
+      "id": "078FDF4B-6450-44CE-9A3A-D8E0CBFBBB0A"
+    },
+    {
+      "class": "group",
+      "id": "2B090F07-5E90-4F4D-A474-5C84E0C4F20E"
+    },
+    {
+      "class": "group",
+      "id": "8B11AC76-504F-4EB3-8599-F2747DA9BE3E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD767FB6-7C20-476B-8A51-045F13738139"
+    },
+    {
+      "class": "group",
+      "id": "24B74086-7D63-4D60-A989-260777ED13C2"
+    },
+    {
+      "class": "group",
+      "id": "1EF8A908-C561-4739-91E7-DDDEF955FA08"
+    },
+    {
+      "class": "group",
+      "id": "BBB761C5-2212-45E5-9ABA-CDE68B45BE1A"
+    },
+    {
+      "class": "group",
+      "id": "361FAAE1-94DB-41E1-97A0-AA13AD7B8CC3"
+    },
+    {
+      "class": "text",
+      "id": "C5DCBF54-0779-4810-B150-900350CB836D"
+    },
+    {
+      "class": "text",
+      "id": "F5219E73-150F-44DA-B0FC-82274E9E6333"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BC654FD7-9DB1-4ED5-B3E1-AF948406A787"
+    },
+    {
+      "class": "text",
+      "id": "3C555B88-BA6E-43F6-B86F-93C20082D8BA"
+    },
+    {
+      "class": "text",
+      "id": "AFEA4DC2-18E9-4991-9B7F-03014F891EDC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E867C50-76EE-4B5C-9769-170D672B3EE8"
+    }
+  ],
+  "name": "Category Page - Tea",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "941A830E-F4BD-4051-AAE1-E1D7C6215A9B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7D331BBE-4E3E-4795-8B35-20C073E9B449",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 14,
+  "do_objectID": "6C52E02B-253F-43F8-A445-7715195031CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 309,
+    "width": 1440,
+    "x": -3460,
+    "y": -816
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "47D45C6B-0437-486F-917A-AE1C5CD23BF2"
+    },
+    {
+      "class": "group",
+      "id": "568EC032-8C98-4854-8920-471A2B651ACE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BEA719D4-A0B0-45EB-9572-9BA539CB2F67"
+    },
+    {
+      "class": "bitmap",
+      "id": "57963B2F-46C4-4BE6-AB2D-A14250A7C75B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BDE36D57-C48C-45D7-A7EB-A0604F33739C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8AD0D991-7CBA-4D10-AD2C-D918B9DFBA3C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E5D302C8-4CC6-4400-AD62-92168CB786B5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "133DD794-5263-4BBC-AA8F-94FB53573A47"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "328A1105-4720-4E2C-81BF-D4F0632B3749"
+    },
+    {
+      "class": "text",
+      "id": "98A5B6CC-33F7-4F42-B4FF-84EAFA50EF45"
+    },
+    {
+      "class": "text",
+      "id": "3411CD84-C8EB-4C7B-8614-E8FD8EDC1C1C"
+    },
+    {
+      "class": "text",
+      "id": "5CB3EDB1-C279-479B-9521-5539263446AE"
+    },
+    {
+      "class": "text",
+      "id": "1C6CB91D-A36B-4AC4-B2F8-47BFA6FCB956"
+    },
+    {
+      "class": "text",
+      "id": "EBE1DD6D-DD63-4709-BBF8-D2E5875E2835"
+    },
+    {
+      "class": "text",
+      "id": "9923CD1B-4D66-4659-AEB0-DEF2991FCF3B"
+    },
+    {
+      "class": "text",
+      "id": "CA9CA9D8-2A7A-4240-961C-4FEC7A09B9AB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E4EB0961-36DF-4B19-BC81-C105D519DA0C"
+    },
+    {
+      "class": "text",
+      "id": "3FD357C3-9353-4A58-8EA4-88AF6DBFEF0D"
+    }
+  ],
+  "name": "Footer Idea 1",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9FA2CDEF-D8D8-4174-A8FE-30C60D3AEC6D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

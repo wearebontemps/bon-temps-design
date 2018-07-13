@@ -1,0 +1,134 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "1BD86B1B-B3D9-4D4F-9C77-8CBC71E474B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 498,
+    "width": 1107,
+    "x": 167,
+    "y": 685
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "69C6E652-A84D-4E38-BD13-F620A52D5C5A"
+    },
+    {
+      "class": "text",
+      "id": "D9789E28-3680-4139-A370-8755E0A91AFF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "547C8EB8-887A-432B-8F32-B04F102869BA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2CB8061D-DE42-4117-998C-025610543319"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C029F867-E9A0-4050-A42F-8BADD29C1940"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6DA151E0-F227-4E14-872E-227EADB19E7F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FA56AAAD-9136-4C26-934E-CA66D6D70EFD"
+    },
+    {
+      "class": "text",
+      "id": "FFE3DB83-8935-448D-B81B-899480EBE46B"
+    },
+    {
+      "class": "text",
+      "id": "A0D7D408-E32F-4A2E-B893-85827ED11285"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E8BA1AE3-620E-4032-8D56-7592BEC28E08"
+    },
+    {
+      "class": "text",
+      "id": "7599DEBC-4FF1-4699-92DD-B227A63FA4AE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7C4A4C6A-6A05-44AA-A127-ECA3D775E4A3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4069A6E6-1F3D-4CD4-AD0E-BB1383E6B021"
+    },
+    {
+      "class": "text",
+      "id": "322CC165-95A8-416F-B1EE-8A127961C87F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "10123EC8-62E9-4F55-8BEA-29D173503F05"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A2D0F9AD-DCB2-4C97-B9FC-90EA2190A9E0"
+    },
+    {
+      "class": "text",
+      "id": "52182921-D2EF-4D72-A4B0-5998A541D71A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BBCAFD79-9DA5-41ED-825D-57AC8EEB1AF1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE7D9DAB-253E-4951-AC4A-007875CC62F1"
+    },
+    {
+      "class": "text",
+      "id": "BD1D797A-20D3-4105-8EB1-F0C2637AE68E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "07817A97-A53E-4E39-8413-D228EAAC5D27"
+    }
+  ],
+  "name": "Allergies/Lifestyle",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

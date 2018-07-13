@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "3AAB56FA-180B-4E6F-89E0-BDEF2B941A01",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 633,
+    "width": 663,
+    "x": 388,
+    "y": 1004
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "49841BAC-5AA0-49FE-90ED-4AA0E8005BD1"
+    },
+    {
+      "class": "text",
+      "id": "E1D003D2-741C-4782-B627-D9CB011B286F"
+    },
+    {
+      "class": "group",
+      "id": "C0CF22B2-D86A-4C67-BE57-63DFA792E029"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "99F269E4-3E79-49A8-BB23-79A39688B071"
+    },
+    {
+      "class": "text",
+      "id": "68E264C1-475E-4239-9E3C-83E388C9CC3D"
+    },
+    {
+      "class": "group",
+      "id": "6FA3D120-976E-4F5A-803D-D6C3200CCBFB"
+    }
+  ],
+  "name": "Contact form",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

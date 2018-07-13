@@ -1,0 +1,134 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "do_objectID": "C2E746FF-F06B-491D-AEBF-21C6A8A657CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20C794C7-0BE6-4C06-B73C-E019463E8328",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "86F6BCC7-F0A3-4278-8D24-D96F689A128C",
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5EECFAC6-94D6-4701-B1A8-98292A7AB7EC",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "0A0B5D68-C2B5-45B9-B2E0-EB4A472364C4"
+    },
+    {
+      "class": "artboard",
+      "id": "06645D91-76AE-4469-87AB-7AE97D044C8E"
+    },
+    {
+      "class": "artboard",
+      "id": "5EC2EA41-5A3F-455C-8ECB-903698ED5354"
+    },
+    {
+      "class": "artboard",
+      "id": "78E559FB-A027-4C8C-99FE-5AAE2BB85314"
+    },
+    {
+      "class": "artboard",
+      "id": "9CEB723C-D406-4F91-A4AD-C135D76BE05F"
+    },
+    {
+      "class": "artboard",
+      "id": "DE1A91C3-9AE5-4C29-BFBA-A827BC3F683C"
+    },
+    {
+      "class": "artboard",
+      "id": "B3E1B33A-52C4-4752-ABAC-437F100AE71A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6C52E02B-253F-43F8-A445-7715195031CC"
+    },
+    {
+      "class": "artboard",
+      "id": "CAE9FB56-D7A4-48BE-B41A-9F985CBFE647"
+    },
+    {
+      "class": "artboard",
+      "id": "9E68439F-CDD0-4356-B919-475993E0138C"
+    },
+    {
+      "class": "artboard",
+      "id": "3B919B07-CEE2-46AD-958A-0E1C499088B2"
+    },
+    {
+      "class": "artboard",
+      "id": "773222E1-F3CA-4AE1-B4BE-648FFDCA7B24"
+    },
+    {
+      "class": "artboard",
+      "id": "DC3F2FA9-A0B0-4E03-9C79-EBE4CFC8DA69"
+    },
+    {
+      "class": "artboard",
+      "id": "1B2F14D7-E028-42F9-B882-2396DB5C0F85"
+    },
+    {
+      "class": "artboard",
+      "id": "6BF4F80E-BEB7-4496-B9BE-B64F29664D2E"
+    },
+    {
+      "class": "bitmap",
+      "id": "884C462A-2A28-4098-9E1D-C9A378D81732"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "88DA6AB7-BA09-49E1-9014-622AA699227A"
+    },
+    {
+      "class": "bitmap",
+      "id": "DDEE54E0-19AD-44E6-90BF-A83034A4533F"
+    }
+  ],
+  "name": "Lo-fi Designs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA77F9CD-412A-48E3-92F7-7737FE97FA83",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "72F672D8-7C95-4B2A-B28F-02E332DF4293",
+    "guides": [
+    ]
+  }
+}
